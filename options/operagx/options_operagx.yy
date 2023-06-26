@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/eb1e0586-7c6f-4d86-8114-86d2013e4873/edit",
+  "option_operagx_game_name": "pongzinhonew",
+  "option_operagx_guid": "eb1e0586-7c6f-4d86-8114-86d2013e4873",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": false,
+  "option_operagx_next_version": "0.0.0.2",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "c0499b6b-4f58-48a0-ae05-0e42d12ff1ff",
+  "option_operagx_team_name": "Samp22 studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.0",
+}
